@@ -1,0 +1,7 @@
+name = "plugin-broker"
+version = "0.1.0"
+description = "Plugin broker"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
