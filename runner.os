@@ -1,7 +1,7 @@
 #! runner slice — a self-contained trust boundary for the exec capability. The closed type, the
 #! extract boundary, and the attenuated irreversible sink all live here, so this feature's
 #! whole taint -> trust -> effect story is one file. Privilege is centralized in
-#! capabilities.eide and attenuated here to just exec via using (least authority).
+#! capabilities.os and attenuated here to just exec via using (least authority).
 #! @taint bridge — extract<RunDecision> turns the tainted body into a trusted command
 import capabilities
 
